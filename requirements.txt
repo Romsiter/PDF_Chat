@@ -1,0 +1,9 @@
+sentence-transformers
+langchain
+PyPDF
+transformers
+faiss-cpu
+langchain
+pypdf
+tiktoken
+openai
